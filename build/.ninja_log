@@ -1,0 +1,8 @@
+# ninja log v5
+41	338	7160800650901217	CMakeFiles/main.dir/src/utils.c.obj	2fc79eb1a66dafa9
+23	488	7160815151347585	CMakeFiles/main.dir/src/ui.c.obj	8e1900da7956a951
+851	1018	7160906303923184	main.exe	6f49817f33f9abf
+31	455	7160800651934236	CMakeFiles/main.dir/src/thread.c.obj	c298df55ac3cce0f
+40	851	7160814889191879	CMakeFiles/main.dir/src/main.c.obj	98f5fb39c3655652
+44	843	7160814889191879	CMakeFiles/main.dir/src/term_pos.c.obj	d08cd9b39d0f35d3
+18	850	7160906302557026	CMakeFiles/main.dir/src/events.c.obj	1404eb864cc99e0a

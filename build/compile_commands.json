@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\events.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\events.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\events.c",
+  "output": "CMakeFiles\\main.dir\\src\\events.c.obj"
+},
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\main.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\main.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\main.c",
+  "output": "CMakeFiles\\main.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\term_pos.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\term_pos.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\term_pos.c",
+  "output": "CMakeFiles\\main.dir\\src\\term_pos.c.obj"
+},
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\thread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\thread.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\thread.c",
+  "output": "CMakeFiles\\main.dir\\src\\thread.c.obj"
+},
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\ui.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\ui.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\ui.c",
+  "output": "CMakeFiles\\main.dir\\src\\ui.c.obj"
+},
+{
+  "directory": "C:/Users/troyd/source/repos/cpp_cmake_test/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -Zi /FoCMakeFiles\\main.dir\\src\\utils.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\utils.c",
+  "file": "C:\\Users\\troyd\\source\\repos\\cpp_cmake_test\\src\\utils.c",
+  "output": "CMakeFiles\\main.dir\\src\\utils.c.obj"
+}
+]
